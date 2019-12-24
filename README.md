@@ -31,4 +31,6 @@ https://github.com/QueenieCplusplus/Networking/blob/master/Addr.md
 
 Host https://github.com/QueenieCplusplus/Networking/blob/master/Host.md
 
+Loop https://github.com/QueenieCplusplus/Networking/blob/master/Loop.md
+
 
