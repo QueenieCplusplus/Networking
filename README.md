@@ -43,11 +43,11 @@ Digital Signal https://github.com/QueenieCplusplus/Networking/blob/master/sig.md
 
 Duplex https://github.com/QueenieCplusplus/Networking/blob/master/half_duplex.md
 
-GW 
+* GW 
 
 https://github.com/QueenieCplusplus/Networking/blob/master/Gateway.md
 
-Static IP Addr
+* Static IP Addr
 
 https://github.com/QueenieCplusplus/Networking/blob/master/Router.md
 
@@ -61,11 +61,11 @@ https://github.com/QueenieCplusplus/Networking/blob/master/IP.md
 
 https://github.com/QueenieCplusplus/Networking/blob/master/Addr.md
 
-Trace Route
+* Trace Route
 
 https://github.com/QueenieCplusplus/Networking/blob/master/Traceroute.md
 
-Ping (ICMP)
+* Ping (ICMP)
 
 https://github.com/QueenieCplusplus/Networking/blob/master/Ping.md
 
