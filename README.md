@@ -57,6 +57,8 @@ Ping (ICMP)
 
 https://github.com/QueenieCplusplus/Networking/blob/master/Ping.md
 
+NIC https://github.com/QueenieCplusplus/Networking/blob/master/WNIC.md
+
 Host https://github.com/QueenieCplusplus/Networking/blob/master/Host.md
 
 Loop https://github.com/QueenieCplusplus/Networking/blob/master/Loop.md
