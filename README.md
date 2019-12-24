@@ -49,6 +49,10 @@ https://github.com/QueenieCplusplus/Networking/blob/master/IP.md
 
 https://github.com/QueenieCplusplus/Networking/blob/master/Addr.md
 
+Trace Route
+
+https://github.com/QueenieCplusplus/Networking/blob/master/Traceroute.md
+
 Ping (ICMP)
 
 https://github.com/QueenieCplusplus/Networking/blob/master/Ping.md
