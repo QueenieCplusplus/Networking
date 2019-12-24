@@ -20,6 +20,11 @@ Active Directory https://github.com/QueenieCplusplus/Networking/blob/master/AD.p
 LDAP https://github.com/QueenieCplusplus/Networking/blob/master/LDAP.md
 
 ----------------------------------
+TCP (Sockets)
+
+https://github.com/QueenieCplusplus/Networking/blob/master/TCP.md
+
+----------------------------------
 0101010101
 
 Digital Signal https://github.com/QueenieCplusplus/Networking/blob/master/sig.md
