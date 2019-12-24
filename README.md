@@ -8,6 +8,8 @@ Hyper Text
 
 URI https://github.com/QueenieCplusplus/Networking/blob/master/URI.md
 
+Active Directory https://github.com/QueenieCplusplus/Networking/blob/master/AD.pdf
+
 ----------------------------------
 0101010101
 
