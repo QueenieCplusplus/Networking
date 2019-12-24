@@ -15,6 +15,8 @@ Digital Signal https://github.com/QueenieCplusplus/Networking/blob/master/sig.md
 
 Duplex https://github.com/QueenieCplusplus/Networking/blob/master/half_duplex.md
 
+GW https://github.com/QueenieCplusplus/Networking/blob/master/Gateway.md
+
 Router https://github.com/QueenieCplusplus/Networking/blob/master/unicast.md
 
 IP https://github.com/QueenieCplusplus/Networking/blob/master/Addr.md
