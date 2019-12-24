@@ -6,7 +6,7 @@ plz see code.
 https://github.com/QueenieCplusplus/Networking/blob/master/Intro.md
 
 ----------------------------------
-應用
+協定的應用
 
 VoIP(UDP)
 
@@ -41,7 +41,7 @@ TCP (包含 Web Sockets App)
 https://github.com/QueenieCplusplus/Networking/blob/master/TCP.md
 
 ----------------------------------
-0101010101 網路傳輸
+數據傳輸
 
 Digital Signal https://github.com/QueenieCplusplus/Networking/blob/master/sig.md
 
@@ -65,6 +65,15 @@ https://github.com/QueenieCplusplus/Networking/blob/master/IP.md
 
 https://github.com/QueenieCplusplus/Networking/blob/master/Addr.md
 
+NIC https://github.com/QueenieCplusplus/Networking/blob/master/WNIC.md
+
+Host https://github.com/QueenieCplusplus/Networking/blob/master/Host.md
+
+Loop https://github.com/QueenieCplusplus/Networking/blob/master/Loop.md
+
+--------------------------------
+探測檢視
+
 * Trace Route
 
 https://github.com/QueenieCplusplus/Networking/blob/master/Traceroute.md
@@ -72,11 +81,5 @@ https://github.com/QueenieCplusplus/Networking/blob/master/Traceroute.md
 * Ping (ICMP)
 
 https://github.com/QueenieCplusplus/Networking/blob/master/Ping.md
-
-NIC https://github.com/QueenieCplusplus/Networking/blob/master/WNIC.md
-
-Host https://github.com/QueenieCplusplus/Networking/blob/master/Host.md
-
-Loop https://github.com/QueenieCplusplus/Networking/blob/master/Loop.md
 
 
