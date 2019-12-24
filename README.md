@@ -10,6 +10,8 @@ URI https://github.com/QueenieCplusplus/Networking/blob/master/URI.md
 
 Active Directory https://github.com/QueenieCplusplus/Networking/blob/master/AD.pdf
 
+LDAP https://github.com/QueenieCplusplus/Networking/blob/master/LDAP.md
+
 ----------------------------------
 0101010101
 
