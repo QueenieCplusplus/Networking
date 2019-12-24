@@ -20,7 +20,7 @@ Active Directory https://github.com/QueenieCplusplus/Networking/blob/master/AD.p
 LDAP https://github.com/QueenieCplusplus/Networking/blob/master/LDAP.md
 
 ----------------------------------
-TCP (Sockets)
+TCP (包含 Web Sockets App)
 
 https://github.com/QueenieCplusplus/Networking/blob/master/TCP.md
 
