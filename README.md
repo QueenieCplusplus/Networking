@@ -3,6 +3,14 @@
 
 plz see code.
 
+----------------------------------
+Hyper Text
+
+URI https://github.com/QueenieCplusplus/Networking/blob/master/URI.md
+
+----------------------------------
+0101010101
+
 Digital Signal https://github.com/QueenieCplusplus/Networking/blob/master/sig.md
 
 Duplex https://github.com/QueenieCplusplus/Networking/blob/master/half_duplex.md
