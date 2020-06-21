@@ -26,7 +26,13 @@ ______________________________________________________________________________
 
 * 將故障 failout 的設備限制在否一廣播領域，對排除問題速度上較為有保障。
 
-* 減少 spainning tree protocol 工作量。
+* 減少 spanning tree protocol 工作量。
+
+# STP
+
+生成樹協定
+
+https://zh.wikipedia.org/wiki/生成树协议
 
 # Access
 
