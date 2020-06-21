@@ -34,6 +34,12 @@ ______________________________________________________________________________
 
 https://zh.wikipedia.org/wiki/生成树协议
 
+# VTP
+
+虛擬區域網路主幹中繼協定
+
+https://en.wikipedia.org/wiki/VLAN_Trunking_Protocol
+
 # Access
 
         Notebook ---- IP Phone ---------------------------- SW (+ PBX)
